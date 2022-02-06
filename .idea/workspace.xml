@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="14cf9f2f-0e5b-4cbc-ac77-82db50764ffe" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:\Program Files\JetBrains\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="24kRnk9wow2X0j3nJskQeIPIlEu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="16.13.2" />
+    <property name="javascript.nodejs.core.library.typings.version" value="16.11.22" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/day4/src/part2/part2.js" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021" />
+      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\Day1\src\part1" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\day4\src\part2" />
+      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\day4\src\part1" />
+      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\day4\src" />
+      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\Day3\src" />
+      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\Day3\src\part2" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Node.js.Day4_2">
+    <configuration name="Day3_1" type="NodeJSConfigurationType" folderName="Day3" path-to-js-file="part1/part1.js" working-dir="$PROJECT_DIR$/Day3/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="Day3_2" type="NodeJSConfigurationType" folderName="Day3" path-to-js-file="part2/part2.js" working-dir="$PROJECT_DIR$/Day3/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="Day4_1" type="NodeJSConfigurationType" folderName="Day4" path-to-js-file="part1/part1.js" working-dir="$PROJECT_DIR$/day4/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="Day4_2" type="NodeJSConfigurationType" folderName="Day4" path-to-js-file="part2/part2.js" working-dir="$PROJECT_DIR$/day4/src">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Node.js.Day3_2" />
+      <item itemvalue="Node.js.Day3_1" />
+      <item itemvalue="Node.js.Day4_2" />
+      <item itemvalue="Node.js.Day4_1" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="14cf9f2f-0e5b-4cbc-ac77-82db50764ffe" name="Changes" comment="" />
+      <created>1644172771867</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1644172771867</updated>
+      <workItem from="1644172793228" duration="8736000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <condition expression="num===24" language="JavaScript" />
+          <url>file://$PROJECT_DIR$/day4/src/part1/part1.js</url>
+          <line>91</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="NodeJSConfigurationType">
+        <watch expression="numbers[i]" language="JavaScript" />
+        <watch expression="boards[&quot;2&quot;][&quot;0&quot;][&quot;0&quot;]" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
