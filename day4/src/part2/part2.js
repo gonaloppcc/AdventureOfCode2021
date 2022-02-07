@@ -23,8 +23,8 @@ for (i = 0; i < numbers.length; i++) {
 console.log("Last board:");
 part1.printBoard(boards[0]);
 const lastNumber = numbers[i];
-const sumUnmaked = part1.sumUnmarkedNumbers(boards[0]);
+const sumUnmarked = part1.sumUnmarkedNumbers(boards[0]);
 
 console.log(
-    `Score: ${lastNumber} * ${sumUnmaked} = ${lastNumber * sumUnmaked}`
+    `Score: ${lastNumber} * ${sumUnmarked} = ${lastNumber * sumUnmarked}`
 );

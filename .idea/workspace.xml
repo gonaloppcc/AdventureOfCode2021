@@ -1,14 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14cf9f2f-0e5b-4cbc-ac77-82db50764ffe" name="Changes" comment="" />
+    <list default="true" id="14cf9f2f-0e5b-4cbc-ac77-82db50764ffe" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Day5/src/part2/part2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/src/part1/part1.js" beforeDir="false" afterPath="$PROJECT_DIR$/day4/src/part1/part1.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day4/src/part2/part2.js" beforeDir="false" afterPath="$PROJECT_DIR$/day4/src/part2/part2.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -29,7 +50,7 @@
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.13.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.11.22" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/day4/src/part2/part2.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day5/src/part2/part2.js" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -50,17 +71,23 @@
       <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\Day3\src\part2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Day4_2">
+  <component name="RunManager" selected="Node.js.Day5_2.js">
     <configuration name="Day3_1" type="NodeJSConfigurationType" folderName="Day3" path-to-js-file="part1/part1.js" working-dir="$PROJECT_DIR$/Day3/src">
       <method v="2" />
     </configuration>
     <configuration name="Day3_2" type="NodeJSConfigurationType" folderName="Day3" path-to-js-file="part2/part2.js" working-dir="$PROJECT_DIR$/Day3/src">
       <method v="2" />
     </configuration>
-    <configuration name="Day4_1" type="NodeJSConfigurationType" folderName="Day4" path-to-js-file="part1/part1.js" working-dir="$PROJECT_DIR$/day4/src">
+    <configuration name="Day4_1" type="NodeJSConfigurationType" folderName="Day4" path-to-js-file="$PROJECT_DIR$/Day4/src/part1/part1.js" working-dir="$PROJECT_DIR$/Day4/src">
       <method v="2" />
     </configuration>
-    <configuration name="Day4_2" type="NodeJSConfigurationType" folderName="Day4" path-to-js-file="part2/part2.js" working-dir="$PROJECT_DIR$/day4/src">
+    <configuration name="Day4_2" type="NodeJSConfigurationType" folderName="Day4" path-to-js-file="$PROJECT_DIR$/Day4/src/part2/part2.js" working-dir="$PROJECT_DIR$/Day4/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="Day5_1.js" type="NodeJSConfigurationType" folderName="Day5" temporary="true" path-to-js-file="part1/part1.js" working-dir="$PROJECT_DIR$/Day5/src/">
+      <method v="2" />
+    </configuration>
+    <configuration name="Day5_2.js" type="NodeJSConfigurationType" folderName="Day5" temporary="true" path-to-js-file="part2/part2.js" working-dir="$PROJECT_DIR$/Day5/src/">
       <method v="2" />
     </configuration>
     <list>
@@ -68,7 +95,15 @@
       <item itemvalue="Node.js.Day3_1" />
       <item itemvalue="Node.js.Day4_2" />
       <item itemvalue="Node.js.Day4_1" />
+      <item itemvalue="Node.js.Day5_1.js" />
+      <item itemvalue="Node.js.Day5_2.js" />
     </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.Day5_2.js" />
+        <item itemvalue="Node.js.Day5_1.js" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -78,7 +113,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1644172771867</updated>
-      <workItem from="1644172793228" duration="8736000" />
+      <workItem from="1644172793228" duration="13165000" />
+      <workItem from="1644198345937" duration="968000" />
+      <workItem from="1644242752070" duration="6654000" />
     </task>
     <servers />
   </component>
@@ -95,15 +132,15 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
           <condition expression="num===24" language="JavaScript" />
-          <url>file://$PROJECT_DIR$/day4/src/part1/part1.js</url>
+          <url>file://$PROJECT_DIR$/Day4/src/part1/part1.js</url>
           <line>91</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>

@@ -49,7 +49,7 @@ const parseBoardsAndNumbers = (fileName) => {
 };
 
 const printBoard = (board) => {
-    console.table(board.map(row => row.map(e => (e.marked && ".") + e.value + (e.marked && "."))));
+    console.table(board.map(row => row.map(e => e.marked ? '>' + e.value + '<' : e.value)));
 }
 
 const checkWin = (board) => {
@@ -133,17 +133,17 @@ const part1 = () => {
             winnerFound = true;
             const lastNumber = numbers[i];
             const winner = winnerIndex[0];
-            const sumUnmaked = sumUnmarkedNumbers(boards[winner]);
+            const sumUnmarked = sumUnmarkedNumbers(boards[winner]);
             console.log(
-                `Score: {lastNumber:${lastNumber}} * {sum:${sumUnmaked}} = ${
-                    lastNumber * sumUnmaked
+                `Score: {lastNumber:${lastNumber}} * {sum:${sumUnmarked}} = ${
+                    lastNumber * sumUnmarked
                 }`
             );
             break;
         }
     }
 
-    if (winnerFound === false) console.log("No winners!");
+    if (!winnerFound) console.log("No winners!");
 };
 
 module.exports.parse = parseBoardsAndNumbers;
