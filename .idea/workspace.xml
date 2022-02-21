@@ -1,12 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="14cf9f2f-0e5b-4cbc-ac77-82db50764ffe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Day5/src/part2/part2.js" afterDir="false" />
+    <list default="true" id="14cf9f2f-0e5b-4cbc-ac77-82db50764ffe" name="Changes" comment="Add  day5's part1. Starting with part2.">
+      <change afterPath="$PROJECT_DIR$/Day5/day5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/Day6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/src/LanternFish.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/src/LanternFishField.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/src/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/src/part1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day6/src/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7/day7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7/src/day7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7/src/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day7/src/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8/Day8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8/src/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8/src/part1/part1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8/src/part2/part2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day8/src/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9/src/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9/src/part1/part1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day9/src/test.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/src/part1/part1.js" beforeDir="false" afterPath="$PROJECT_DIR$/day4/src/part1/part1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day4/src/part2/part2.js" beforeDir="false" afterPath="$PROJECT_DIR$/day4/src/part2/part2.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day5/src/part2/part2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day5/src/part2/part2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +63,12 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="16.13.2" />
     <property name="javascript.nodejs.core.library.typings.version" value="16.11.22" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day5/src/part2/part2.js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Day9/src/part1/part1.js" />
     <property name="nodejs_interpreter_path" value="node" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -64,14 +82,14 @@
       <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\Day1\src\part1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\Day7\src" />
+      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\Day6\src" />
+      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\day6\src" />
       <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\day4\src\part2" />
       <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\day4\src\part1" />
-      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\day4\src" />
-      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\Day3\src" />
-      <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\Day3\src\part2" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.Day5_2.js">
+  <component name="RunManager" selected="Node.js.part1.js">
     <configuration name="Day3_1" type="NodeJSConfigurationType" folderName="Day3" path-to-js-file="part1/part1.js" working-dir="$PROJECT_DIR$/Day3/src">
       <method v="2" />
     </configuration>
@@ -84,10 +102,19 @@
     <configuration name="Day4_2" type="NodeJSConfigurationType" folderName="Day4" path-to-js-file="$PROJECT_DIR$/Day4/src/part2/part2.js" working-dir="$PROJECT_DIR$/Day4/src">
       <method v="2" />
     </configuration>
-    <configuration name="Day5_1.js" type="NodeJSConfigurationType" folderName="Day5" temporary="true" path-to-js-file="part1/part1.js" working-dir="$PROJECT_DIR$/Day5/src/">
+    <configuration name="Day6js" type="NodeJSConfigurationType" folderName="Day6" temporary="true" path-to-js-file="part1.js" working-dir="$PROJECT_DIR$/Day6/src">
       <method v="2" />
     </configuration>
-    <configuration name="Day5_2.js" type="NodeJSConfigurationType" folderName="Day5" temporary="true" path-to-js-file="part2/part2.js" working-dir="$PROJECT_DIR$/Day5/src/">
+    <configuration name="Day7.js" type="NodeJSConfigurationType" folderName="Day7" temporary="true" path-to-js-file="day7.js" working-dir="$PROJECT_DIR$/Day7/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="Day8_1.js" type="NodeJSConfigurationType" folderName="Day8" temporary="true" path-to-js-file="part1/part1.js" working-dir="$PROJECT_DIR$/Day8/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="Day8_2.js" type="NodeJSConfigurationType" folderName="Day8" temporary="true" path-to-js-file="part2/part2.js" working-dir="$PROJECT_DIR$/Day8/src">
+      <method v="2" />
+    </configuration>
+    <configuration name="part1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="part1/part1.js" working-dir="$PROJECT_DIR$/Day9/src">
       <method v="2" />
     </configuration>
     <list>
@@ -95,13 +122,19 @@
       <item itemvalue="Node.js.Day3_1" />
       <item itemvalue="Node.js.Day4_2" />
       <item itemvalue="Node.js.Day4_1" />
-      <item itemvalue="Node.js.Day5_1.js" />
-      <item itemvalue="Node.js.Day5_2.js" />
+      <item itemvalue="Node.js.Day6js" />
+      <item itemvalue="Node.js.Day7.js" />
+      <item itemvalue="Node.js.Day8_2.js" />
+      <item itemvalue="Node.js.Day8_1.js" />
+      <item itemvalue="Node.js.part1.js" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.Day5_2.js" />
-        <item itemvalue="Node.js.Day5_1.js" />
+        <item itemvalue="Node.js.part1.js" />
+        <item itemvalue="Node.js.Day8_2.js" />
+        <item itemvalue="Node.js.Day8_1.js" />
+        <item itemvalue="Node.js.Day7.js" />
+        <item itemvalue="Node.js.Day6js" />
       </list>
     </recent_temporary>
   </component>
@@ -115,8 +148,24 @@
       <updated>1644172771867</updated>
       <workItem from="1644172793228" duration="13165000" />
       <workItem from="1644198345937" duration="968000" />
-      <workItem from="1644242752070" duration="6654000" />
+      <workItem from="1644242752070" duration="15897000" />
+      <workItem from="1644290284827" duration="1591000" />
+      <workItem from="1644367905228" duration="10076000" />
+      <workItem from="1644443371002" duration="587000" />
+      <workItem from="1644450278108" duration="2747000" />
+      <workItem from="1644489414464" duration="4998000" />
+      <workItem from="1644505935731" duration="4224000" />
+      <workItem from="1644526940165" duration="3803000" />
+      <workItem from="1644772013216" duration="81000" />
     </task>
+    <task id="LOCAL-00001" summary="Add  day5's part1. Starting with part2.">
+      <created>1644258164999</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1644258164999</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,6 +182,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add  day5's part1. Starting with part2." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add  day5's part1. Starting with part2." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
