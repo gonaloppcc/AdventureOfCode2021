@@ -2,28 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14cf9f2f-0e5b-4cbc-ac77-82db50764ffe" name="Changes" comment="Add  day5's part1. Starting with part2.">
-      <change afterPath="$PROJECT_DIR$/Day5/day5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/Day6.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/src/LanternFish.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/src/LanternFishField.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/src/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/src/part1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day6/src/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7/day7.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7/src/day7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7/src/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day7/src/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/Day8.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/src/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/src/part1/part1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/src/part2/part2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day8/src/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day9/src/input.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day9/src/part1/part1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day9/src/test.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day5/src/part2/part2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Day5/src/part2/part2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +68,7 @@
       <recent name="D:\Users\gonca\Documents\GitHub\AdventureOfCode2021\day4\src\part1" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.part1.js">
+  <component name="RunManager" selected="Node.js.Day7.js">
     <configuration name="Day3_1" type="NodeJSConfigurationType" folderName="Day3" path-to-js-file="part1/part1.js" working-dir="$PROJECT_DIR$/Day3/src">
       <method v="2" />
     </configuration>
@@ -130,10 +109,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.Day7.js" />
         <item itemvalue="Node.js.part1.js" />
         <item itemvalue="Node.js.Day8_2.js" />
         <item itemvalue="Node.js.Day8_1.js" />
-        <item itemvalue="Node.js.Day7.js" />
         <item itemvalue="Node.js.Day6js" />
       </list>
     </recent_temporary>
@@ -157,6 +136,7 @@
       <workItem from="1644505935731" duration="4224000" />
       <workItem from="1644526940165" duration="3803000" />
       <workItem from="1644772013216" duration="81000" />
+      <workItem from="1646155662444" duration="779000" />
     </task>
     <task id="LOCAL-00001" summary="Add  day5's part1. Starting with part2.">
       <created>1644258164999</created>
